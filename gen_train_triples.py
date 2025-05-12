@@ -4,9 +4,6 @@ from tqdm import tqdm
 
 
 def gen_train_triples(negatives_per_positives=3):
-    """generates training triples for any model that needs to be trained on triples.
-    negatives_per_positives: number of negative samples per positive sample, normal is 3-10
-    """
     with open("data/train/training13b_clean.json", "r") as f:
         questions = json.load(f)
         

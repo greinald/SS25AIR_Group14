@@ -1,0 +1,12 @@
+# Core libraries
+numpy
+torch
+nltk
+tqdm
+
+# Bioinformatics
+biopython
+
+# NLP and retrieval
+rank_bm25
+sentence-transformers

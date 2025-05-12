@@ -2,12 +2,14 @@ from sentence_transformers import CrossEncoder, InputExample
 from torch.utils.data import DataLoader
 import json
 
+
 def load_pairs_from_triples(path):
     samples = []
     with open(path, 'r', encoding='utf-8') as f:
         for line in f:
             data = json.loads(line)
             query = data["query"]
+            
             pos = data["positive"]
             neg = data["negative"]
             samples.append(InputExample(texts=[query, pos], label=1.0))  # Positive pair
