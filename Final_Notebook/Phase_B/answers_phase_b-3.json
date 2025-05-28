@@ -1,0 +1,1494 @@
+{
+  "questions": [
+    {
+      "id": "67e6cf2618b1e36f2e0000d0",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "TG02 exhibits overlapping toxicity with alkylating agents and low single agent clinical activity in recurrent glioblastoma .  Zotiraciclib, a CDK9 inhibitor, has demonstrated efficacy in gliablastoma treatment in preclinical"
+    },
+    {
+      "id": "680d5e47353a4a2e6b000005",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "chronic"
+        ],
+        [
+          "chronic inflammatory lung disease Bronchiectasis is a worldwide chronic"
+        ],
+        [
+          "chronic lung disorder"
+        ],
+        [
+          "Bronchiectasis is a worldwide chronic"
+        ],
+        [
+          "chronic inflammatory lung disease Bronchiectasis is a worldwide chronic lung disorder"
+        ]
+      ],
+      "ideal_answer": "Bronchiectasis is a worldwide chronic lung disorder where exacerbations are common . Chronic infection and inflammation shapes the airway microbiome in bronchiectas ."
+    },
+    {
+      "id": "680f4a68353a4a2e6b000007",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "TNF-alpha (TNF-\u03b1) and interleukins (ILs) perform vital roles in the pathogenesis and treatment of depression . Increasing evidence suggests TNF inhibitors (etanercept, infliximab, adalimumab) and IL inhibitors (ustekinumab) have become key compounds in the treatment ."
+    },
+    {
+      "id": "680a083218b1e36f2e00014d",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Microglia are immune cells in the brain that originate from the yolk sac and enter the developing brain before birth . They play critical roles in brain development by supporting neural precursor proliferation, synaptic pruning, and circuit formation ."
+    },
+    {
+      "id": "67e5557c18b1e36f2e0000ac",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "vasomotor symptoms of menopause"
+        ],
+        [
+          "vasomotor symptoms"
+        ],
+        [
+          "treatment of vasomotor symptoms of menopause"
+        ],
+        [
+          "menopause"
+        ],
+        [
+          "the treatment of vasomotor symptoms of menopause"
+        ]
+      ],
+      "ideal_answer": "The neurokinin 3 receptor antagonist fezolinetant 45 mg/d significantly reduced frequency/severity of moderate to severe vasomotor symptoms (VMS) of menopause compared with placebo in two phase 3 randomized controlled trials . In March 2023, the U.S. Food and Drug Administration approved the drug ."
+    },
+    {
+      "id": "6810fef8353a4a2e6b000016",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "miscarriage"
+        ],
+        [
+          "other pregnancy complications"
+        ]
+      ],
+      "ideal_answer": "Diethylstilbestrol (DES) is a potent estrogen mimic that was predominantly used from the 1940s to the 1970s by pregnant women in hopes of preventing miscarriage . DES was prescribed from 1941 onwards for the prevention of miscarriage ."
+    },
+    {
+      "id": "6810cb23353a4a2e6b000012",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "nirsevimab"
+        ]
+      ],
+      "ideal_answer": "Current protection against severe RSV infection is immunoprophylaxis with the monoclonal antibody palivizumab nirsevimab to protect infants against respiratory syncytial virus . Nirseviab was observed to have noninferior efficacy and safety ."
+    },
+    {
+      "id": "680bc7a718b1e36f2e000156",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "It emphasizes the iterative nature of the response where the killing of tumor cells by T-cells initiates subsequent rounds of antigen presentation and T-cell stimulation . Any step of the cycle can become rate-limiting, rendering the immune system unable to control tumor growth ."
+    },
+    {
+      "id": "67e56f2018b1e36f2e0000b0",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Iptacopan, a novel oral factor B inhibitor, recently obtained US Food and Drug Administration approval for treating paroxysmal nocturnal hemoglobinuria, a rare blood disorder characterized by persistent complement-mediated hemolytic anemia . The drug has shown promising results in native kidneys and cases of transplant recurrence in a phase 2 clinical trial . New molecules are being developed that specifically target the proximal alternative complement pathway, such as iptacopsan ."
+    },
+    {
+      "id": "67fe5f0918b1e36f2e000144",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "fatty liver disease"
+        ]
+      ],
+      "ideal_answer": "Current studies emphasize the urgent need for a paradigm shift in conceptualizing nonalcoholic fatty liver disease (NAFLD), now renamed metabolic dysfunction"
+    },
+    {
+      "id": "67fbe4d718b1e36f2e00011d",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Associations at previously identified OPRM1 variants suggest common biology between persistent opioid use and opioid use disorder . Commonly dysregulated DEGs suggest conserved cross-species mechanisms for chronic alcohol consumption/AUD comprising MAPKs, STAT, IRF7, and TNF . Abnormal genetic polymorphism of trace amine-associated receptor 1 (TAAR1) site has been confirmed to induce methamphetamine use and drug craving ."
+    },
+    {
+      "id": "680a079718b1e36f2e000147",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Natural Killer (NK) cells are integral to the innate immune system, renowned for their ability to target and eliminate cancer cells without the need for antigen presentation . These cells are crucial in cancer immunosurveillance due to their diverse array of activating and inhibitory receptors that modulate their cytotoxic activity . Their unique mechanism of action does not rely on antigen presentation to recognize and eliminate tumor cells ."
+    },
+    {
+      "id": "67e5749b18b1e36f2e0000b5",
+      "type": "list",
+      "exact_answer": [
+        [
+          "CD3 antigen of T cells"
+        ],
+        [
+          "CD19 surface antigen of all B cells"
+        ],
+        [
+          "B cells and the second targets the CD3 antigen of T cells"
+        ],
+        [
+          "CD19 for acute lymphoblastic leukemia"
+        ],
+        [
+          "binds the CD19 surface antigen of all B cells"
+        ],
+        [
+          "targets the CD3 antigen of T cells"
+        ],
+        [
+          "CD3 antigen"
+        ],
+        [
+          "the CD19 surface antigen of all B cells"
+        ],
+        [
+          "the first binds the CD19 surface antigen of all B cells"
+        ],
+        [
+          "all B cells"
+        ],
+        [
+          "second targets the CD3 antigen of T cells"
+        ],
+        [
+          "B cells"
+        ],
+        [
+          "acute lymphoblastic leukemia"
+        ]
+      ],
+      "ideal_answer": "CD19/CD3-bispecific blinatumomab is a fusion protein which consists of two single-chain variable fragments arranged in tandem . The first binds the CD19 surface antigen of all B cells and the second targets the CD3 antigen of T cells . Anti-CD19xCD3 TCEs are being developed as well ."
+    },
+    {
+      "id": "680d5f2a353a4a2e6b000006",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "PO erdosteine 225 mg BID in addition to routine chest physiotherapy provided some physiologic and clinical benefits in the treatment of these elderly patients with bronchiectasis and chronic mucus hyper-secretion ."
+    },
+    {
+      "id": "6810f6f0353a4a2e6b000015",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Semaglutide appeared to be the most effective and safe option among four GLP-1 RAs in children and adolescents with obesity or overweight . Current practice patterns of GLP1A use at major pediatric bariatric centers across the United States are safe, acceptable, and effective"
+    },
+    {
+      "id": "680a237618b1e36f2e000152",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Radiomics analysis, utilizing segmented perfusion and diffusion maps, provide predictive indicators of survival in IDH wild-type glioblastoma patients, reveal associations with microstructural and vascular heterogeneity in the tumor . Findings suggest a small necrotic subregion, inhomogeneous vascularization in the solid non-enhancing subregion and edema-related tissue damage are linked to poor survival . The proposed method significantly enhances the predictive accuracy of OS outcomes in GBM, IDH-wildtype patients . By integrating detailed imaging features with key clinical indicators, this model"
+    },
+    {
+      "id": "68110110353a4a2e6b000018",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "N-acetylcysteine improves survival in established acute liver failure following paracetamol overdose ."
+    },
+    {
+      "id": "680f4c63353a4a2e6b00000d",
+      "type": "factoid",
+      "exact_answer": [
+
+        [
+          "praziquantel  prazquantel praz"
+        ]
+
+      ],
+      "ideal_answer": "praziquantel  prazquantel praz"
+    },
+    {
+      "id": "680a087218b1e36f2e00014f",
+      "type": "list",
+      "exact_answer": [
+        [
+          "histogram shapebased features texture-based features wavelet features"
+        ],
+        [
+          "histogram shapebased features texture-based features"
+        ],
+        [
+          "histogram shapebased features"
+        ],
+        [
+          "histogram shapebased"
+        ],
+        [
+          "histogram shapebased features texture-based"
+        ]
+      ],
+      "ideal_answer": "Radiomics is a rapidly evolving field of research concerned with the extraction of quantitative metrics-the so-called radiomic features-within medical images . Radiomic features capture tissue and lesion characteristics such as heterogeneity and shape . The process of radiomics analysis usually includes the acquisition of image data, Region of Interest (ROI) segmentation, feature extracting, feature selection, and classification or prediction . Texture analysis features include histogram, gray size area matrix and gray co-occurrence matrix features ."
+    },
+    {
+      "id": "6810daad353a4a2e6b000013",
+      "type": "list",
+      "exact_answer": [
+        [
+          "Clostridioides difficile infections"
+        ],
+        [
+          "rCDI"
+        ],
+        [
+          "recurrent Clostridioides difficile infections"
+        ],
+        [
+          "urinary stone disease"
+        ],
+        [
+          "Clostridioides difficile"
+        ],
+        [
+          "infections"
+        ],
+        [
+          "recurrent Clostridioides difficile"
+        ],
+        [
+          "difficile infections"
+        ],
+        [
+          "Clostridioides"
+        ],
+        [
+          "rCDI is the reestablishment of an intact microbiota"
+        ],
+        [
+          "urinary stone"
+        ]
+      ],
+      "ideal_answer": "The most effective treatment for rCDI is the reestablishment of an intact microbiota via fecal microbiota transplants . Fecal microbiota transplantation (FMT) and fecal virome transplantation have been effective in treating recurrent Clostridioides difficile infections . The gut microbiome may impact metabolism, alters urinary chemistry, and thereby may influence USD ."
+    },
+    {
+      "id": "6810c27b353a4a2e6b000010",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Fluoxetine and sertraline constituted the two most frequently-prescribed individual antidepressants aged 5-17 years . Youth aged 7-17\u2009years who were treated with sertrine treated with ."
+    },
+    {
+      "id": "680a07a418b1e36f2e000148",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "Dendritic cells"
+        ],
+        [
+          "DCs"
+        ]
+      ],
+      "ideal_answer": "Dendritic cells (DCs) are primary antigen-presenting cells involved in interactions with T cells leading to the proliferation of TH1 or TH2 cell types . DCs play key roles in the orchestration of the innate and adaptive immune"
+    },
+    {
+      "id": "67fbd58c18b1e36f2e00010e",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Amyotrophic lateral sclerosis (ALS) is a rare neurodegenerative disease characterized by motor neuron loss in the motor cortex, brain stem, and spinal cord . Mutations in the superoxide dismutase 1 (SOD1) gene, resulting in misfolding of its protein product, are a common cause of ALS ."
+    },
+    {
+      "id": "67fbe10618b1e36f2e000111",
+      "type": "list",
+      "exact_answer": [
+
+        [
+          "girls with ASD had lower IQs than boys but similar adaptive functioning"
+        ],
+        [
+          "depression and anxiety"
+        ],
+        [
+          "Autistic girls"
+        ],
+        [
+          "depression and anxiety compared to autistic boys"
+        ]
+      ],
+      "ideal_answer": "Autistic girls more likely to have parent-reported depression and anxiety compared to autistic boys . Girls with ASD had lower IQs than boys but similar adaptive functioning . The severity of symptoms of ASD was greater in boys than in girls, as were scores on psychopathological measures ."
+    },
+    {
+      "id": "680fcb72353a4a2e6b00000e",
+      "type": "list",
+      "exact_answer": [
+        [
+          "IgG M A D and E"
+        ],
+        [
+          "- IgG M A D and E"
+        ],
+        [
+          "IgG M A D and"
+        ],
+        [
+          "M A D and E"
+        ],
+        [
+          "E"
+        ],
+        [
+          "IgG M A D"
+        ],
+        [
+          "IgG"
+        ],
+        [
+          "IgG M A"
+        ],
+        [
+          "A D and E"
+        ],
+        [
+          "- IgG M A D and"
+        ],
+        [
+          "IgG M"
+        ],
+        [
+          "D and E"
+        ]
+      ],
+      "ideal_answer": "There are five major classes of immunoglobulins - IgG, M, A, D and E . Each is made of two heavy and two light chains or polymers of this basic subunit . Structure of each heavy and light chain consists of a variable region involved in antigen specificity and binding . IgM memory B cells represent our first-line defense against infections ."
+    },
+    {
+      "id": "6805568118b1e36f2e000145",
+      "type": "list",
+      "exact_answer": [
+        [
+          "Dual orexin receptor antagonists"
+        ],
+        [
+          "daridorexant"
+        ],
+        [
+          "dual orexin receptor antagonist"
+        ],
+        [
+          "lemborexant and daridorexant"
+        ],
+        [
+          "suvorexant"
+        ],
+        [
+          "suvorexant lemborexant"
+        ],
+        [
+          "lemborexant and suvorexant"
+        ],
+        [
+          "dual orexin"
+        ],
+        [
+          "suvorexant a dual orexin receptor antagonist"
+        ],
+        [
+          "daridorexant lemborexant"
+        ],
+        [
+          "Dual orexin receptor antagonists DORAs"
+        ]
+      ],
+      "ideal_answer": "Daridorexant (dari), as the first dual orexin receptor antagonist (DORA) marketed in Europe, offers a novel therapeutic approach to insomnia . This meta-analysis study aimed to assess the safety of FDA-approved DORAs . It looked at narcolepsy-like symptoms associated with these drugs . The study looked at sleep and sensory/motor symptoms in individuals with idiopathic RLS ."
+    },
+    {
+      "id": "67e26b0b18b1e36f2e000073",
+      "type": "yesno",
+      "exact_answer": "no",
+      "ideal_answer": "Takotsubo cardiomyopathy (TCM) is classically associated with significant gender disparities, such that it is more prevalent in females . The incidence of takotsubomomopathy (TSCM) in males is low compared with females ."
+    },
+    {
+      "id": "680a080b18b1e36f2e00014b",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Radiomics is a rapidly developing field of research focused on the extraction of quantitative features from medical images . The radiomics process involves various steps i.e. image generation, segmentation of region of interest (e.g. a tumor), image preprocessing, image pre-processing, radiomic feature extraction, feature analysis and selection and finally prediction model development ."
+    },
+    {
+      "id": "6810db0a353a4a2e6b000014",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "unknown"
+        ],
+        [
+          "The cause of this syndrome is unknown"
+        ],
+        [
+          "neuroinflammation"
+        ],
+        [
+          "pain syndrome"
+        ],
+        [
+          "widespread pain and tenderness at specific anatomical sites"
+        ]
+      ],
+      "ideal_answer": "Fibromyalgia is a complex, chronic, widespread pain syndrome that can cause significant health and economic burden . The etiology of fibromyalgia (FM) is disputed, and there is no established cure . Chronic pain is a leading cause of disability worldwide . Treatment options are limited or moderately effective at best at best, and treatment options are only moderately effective . It is a devastating disease, more common than rheumatoid arthritis, yet its cause remains a mystery ."
+    },
+    {
+      "id": "67e2cfcf18b1e36f2e00009a",
+      "type": "list",
+      "exact_answer": [
+        [
+          "Traditional Chinese fitness exercises"
+        ],
+        [
+          "Traditional Chinese fitness exercises can significantly improve the BMD levels"
+        ],
+        [
+          "Chinese fitness exercises"
+        ],
+        [
+          "Chinese fitness exercises can significantly improve the BMD levels"
+        ],
+        [
+          "fitness exercises"
+        ],
+        [
+          "fitness exercises can significantly improve the BMD levels"
+        ],
+        [
+          "exercises"
+        ],
+        [
+          "Traditional Chinese fitness"
+        ],
+        [
+          "Chinese fitness exercises can significantly improve the BMD levels of postmenopausal women"
+        ],
+        [
+          "Traditional Chinese"
+        ],
+        [
+          "BMD levels"
+        ],
+        [
+          "Traditional Chinese fitness exercises can significantly improve the BMD"
+        ],
+        [
+          "eggshell powder and vitamin D can be a good dietary strategy for bone health"
+        ],
+        [
+          "exercises can significantly improve the BMD levels"
+        ],
+        [
+          "bone health"
+        ]
+      ],
+      "ideal_answer": "Traditional Chinese fitness exercises can significantly improve the BMD levels of postmenopausal women . Eggshell powder may be a good source of calcium for populations with low consumption of milk and dairy products . Functional HMRs fortified with egg"
+    },
+    {
+      "id": "680a081d18b1e36f2e00014c",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Astrocytes outnumber neurons in the human brain . They play a key role in numerous functions within the central nervous system (CNS), including glutamate, ion (i.e., Ca2+ K+) and water homeostasis . After CNS injury, astrocytes communicate with surrounding neuronal and vascular systems, leading to the clearance of disease-specific protein aggregates ."
+    },
+    {
+      "id": "6810ff8f353a4a2e6b000017",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "To evaluate the feasibility of a single-port laparoscopic salpingectomy in the surgical treatment of tubal pregnancy . o evaluate the effectiveness of the porcine training model for obstetrics-gynecology (OB/GYN) residents ."
+    },
+    {
+      "id": "67fbe21818b1e36f2e000113",
+      "type": "list",
+      "exact_answer": [
+        [
+          "Obesity"
+        ],
+        [
+          "Obesity was consistently"
+        ],
+        [
+          "Obesity was consistently associated with the increased risk of thyroid cancer"
+        ],
+        [
+          "Obesity was consistently associated with the increased risk"
+        ],
+        [
+          "no significant association between seafood intake"
+        ],
+        [
+          "Obesity was consistently associated with the increased risk of thyroid cancer metabolic dysfunction"
+        ],
+        [
+          "Obesity was"
+        ],
+        [
+          "no significant association between seafood intake and the risk of thyroid cancer Radiation"
+        ],
+        [
+          "Radiation"
+        ],
+        [
+          "Obesity was consistently associated with the increased risk of thyroid cancer metabolic"
+        ],
+        [
+          "no significant association between seafood intake and the risk of thyroid cancer"
+        ],
+        [
+          "seafood intake"
+        ],
+        [
+          "Obesity was consistently associated"
+        ]
+      ],
+      "ideal_answer": "Obesity was consistently associated with the increased risk of thyroid cancer metabolic dysfunction-associated steatotic liver disease (MASLD) no significant association between seafood intake and the risk of developing thyroid cancer . Radiation is an environmental factor that elevates the"
+    },
+    {
+      "id": "67fc20ee18b1e36f2e00012a",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Glioblastoma is an immunologically 'cold' tumor, characterized by absent or minimal numbers of tumor-infiltrating lymphocytes (TILs) For those tumors that have been invaded"
+    },
+    {
+      "id": "67f8527318b1e36f2e000104",
+      "type": "list",
+      "exact_answer": [
+        [
+          "Macintosh-style hyper-angulated and channeled"
+        ],
+        [
+          "three"
+        ],
+        [
+          "all three"
+        ],
+        [
+          "three types of VL device"
+        ],
+        [
+          "all three types of VL device"
+        ],
+        [
+          "three types"
+        ],
+        [
+          "hyper-angulated and channeled"
+        ],
+        [
+          "all three types"
+        ],
+        [
+          "channeled"
+        ],
+        [
+          "3"
+        ],
+        [
+          "VL with direct laryngoscopy"
+        ],
+        [
+          "VL device"
+        ],
+        [
+          "VL with direct laryngoscopy DL"
+        ]
+      ],
+      "ideal_answer": "Cochrane systematic review and meta-analysis found that all three types of VL device (Macintosh-style, hyper-angulated and channeled) reduced the risk of failed intubation and increased the likelihood of first-pass success . A randomised clinical trial compared 'sniffing' and neutral positions using a channelled (KingVision\u00ae ) and a non-channelled . (C-MAC\u00ae D-blade) videolaryngoscope in 200 adult patients randomly allocated into four groups . Head and neck position is one of the factors which can be"
+    },
+    {
+      "id": "680f4ae9353a4a2e6b000009",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Electroconvulsive therapy has been suggested as a treatment option for refractory status epilepticus (RSE) and super-refractory"
+    },
+    {
+      "id": "67fd922518b1e36f2e000143",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "M1/M2 macrophage paradigm plays a key role in tumor progression . M1 macrophages provide both tumour-promoting and anti-tumour properties . Macrophages play key roles in defence mechanisms and in homoeostasis . Tumours can affect the patient's prognosis . M2-polarized macrophagages, commonly deemed tumor-associated macrophags (TAMs), are contributors to many pro-Tumorigenic outcomes in cancer ."
+    },
+    {
+      "id": "67fc1a3818b1e36f2e000129",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "the most common surgical procedure for GERD"
+        ],
+        [
+          "the most common surgical procedure"
+        ],
+        [
+          "most common surgical procedure for GERD"
+        ],
+        [
+          "most common surgical procedure"
+        ],
+        [
+          "most common surgical procedure for GERD with a failure rate of approximately 20"
+        ]
+      ],
+      "ideal_answer": "Gastroesophageal reflux disease (GERD) worldwide prevalence is increasing maybe due to population aging and the obesity epidemic . Nissen fundoplication is the most common surgical procedure for GERD with a failure rate of approximately 20% which might require a redo surgery . The current surgical approach in the treatment of hiatal hernia is known as hernioplasty together with antireflux surgical procedures ."
+    },
+    {
+      "id": "67e285b018b1e36f2e00007b",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "mosaicism patterns or structural abnormalities of the X chromosome"
+        ],
+        [
+          "either mosaicism patterns or structural abnormalities of the X chromosome"
+        ],
+        [
+          "mosaicism patterns or structural abnormalities"
+        ],
+        [
+          "either mosaicism patterns or structural abnormalities"
+        ],
+        [
+          "which are either mosaicism patterns or structural abnormalities of the X chromosome"
+        ]
+      ],
+      "ideal_answer": "Turner syndrome (45,X) is caused by a complete or partial absence of a single X chromosome . Approximately 45% of patients have the 45,X karyotype and the rest have other variants of Turner syndrome ."
+    },
+    {
+      "id": "680a07f918b1e36f2e00014a",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "Trypanosoma cruzi"
+        ],
+        [
+          "mitochondrion"
+        ],
+        [
+          "Trypanosoma"
+        ],
+        [
+          "Mitochondria"
+        ],
+        [
+          "mitochondria"
+        ]
+      ],
+      "ideal_answer": "Mitochondria are ubiquitous intracellular organelles found in almost all eukaryotes and involved in various aspects of cellular life . Dysfunctioning mitochondria cause diverse diseases such as neurodegenerative disorders, cardiovascular disorders, metabolic disorders, and cancers . Trypanosoma cruzi is the causative agent of Chagas disease and has a single mitochondrion ."
+    },
+    {
+      "id": "67cdc78381b102733300001a",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "neonates"
+        ],
+        [
+          "children"
+        ],
+        [
+          "affecting neonates"
+        ],
+        [
+          "neonates that"
+        ],
+        [
+          "neonates that is thought to result from a prenatal environmental insult"
+        ]
+      ],
+      "ideal_answer": "Biliary atresia (BA) is a congenital cholestatic disease that can seriously damage children's liver function . Infants with BA experience gastrointestinal malabsorption of long-chain triglyceride (MCTs) that can be passively absorbed . The aim was to investigate the association of MCT supplementation with growth, nutritional status and clinical outcomes ."
+    },
+    {
+      "id": "67d7ff2c18b1e36f2e000049",
+      "type": "list",
+      "exact_answer": [
+        [
+          "meteorism dyspepsia and nausea"
+        ],
+        [
+          "dyspepsia and nausea"
+        ],
+        [
+          "nausea"
+        ],
+        [
+          "respiratory disorders meteorism dyspepsia and nausea"
+        ],
+        [
+          "diarrhea"
+        ],
+        [
+          "diarrhea abdominal bloating"
+        ],
+        [
+          "disorders meteorism dyspepsia and nausea"
+        ],
+        [
+          "and nausea"
+        ],
+        [
+          "and respiratory disorders meteorism dyspepsia and nausea"
+        ]
+      ],
+      "ideal_answer": "diarrhea, abdominal bloating,  anemia, infertility/miscarriages, dermatitis, osteoporosis,  osteopirosis, elevated transaminase levels, irritable bowel syndrome, \u00a0irre"
+    },
+    {
+      "id": "680a084018b1e36f2e00014e",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "T cells within the central nervous system (CNS) have been generally considered pathogenic, especially in the context of neuroinflammatory disease . Recent findings have revealed varied functions for T cells in the healthy CNS, as well as more"
+    },
+    {
+      "id": "67cde41a81b102733300001d",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Urolithiasis is a common and recurrent condition with a rising global incidence . Stones typically develop in the upper urinary tract, primarily the kidneys ."
+    },
+    {
+      "id": "67e2b80618b1e36f2e00008f",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Wastewater treatment plants are increasingly identified as Legionnaires' disease (LD) sources . Public bath facilities are a major source of Legionella infections in Japan ."
+    },
+    {
+      "id": "680a21ff18b1e36f2e000151",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "The choroid plexus is a multifunctional organ that sits at the interface between the blood and cerebrospinal fluid (CSF) It is in an excellent position to provide continuous immune surveillance by CD4 (+) T cells, macrophages and dendritic cells and to regulate immune cell trafficking in response to disease and trauma . Adhesion molecule and chemokine expression by the epithelial cells allows substantial control over the selection of cells that transmigrate into the CSF ."
+    },
+    {
+      "id": "67fc546c18b1e36f2e000130",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Rare case report of moxifloxacin-induced persistent hiccups . Herein, we report the first case of cefotaxime-induced hiccup ."
+    },
+    {
+      "id": "680f4aa6353a4a2e6b000008",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "The advent of biotechnological innovations, including recombinant antibodies, small-molecule drugs, monoclonal antibodies and synthetic antivenoms, presents options for eliminating limitations associated with traditional plasma-derived antivenom . Small variations in the venom composition of a species do not lead to a decrease in the efficacy of the polyvalent anti-venom ."
+    },
+    {
+      "id": "680a078618b1e36f2e000146",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "The view still commonly held is that tissue-resident mononuclear phagocytes (including microglia) are derived from circulating blood monocytes . However, microglial progenitors colonise the nervous system primarily during embryonic and fetal periods of development . Unlike macroglia (astrocytes) and neurons, which are . derived from neuroectoderm, they are derived . from peripheral mesodermal (myeloid) tissue ."
+    },
+    {
+      "id": "67e098cb18b1e36f2e00006d",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Pacing, or long pulse gastric electrical stimulation, is a potential treatment option for treating GI motility disorders by modulating the slow wave activity . Gastric stimulator has been used as a surgical option for patients with gastroparesis refractory to medical management ."
+    },
+    {
+      "id": "67d6be8a18b1e36f2e000022",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "ZIKV newborns diagnosed with congenital glaucoma primary . primary congenital . glacoma . neonatal-onset (NO) and infantile-onet (IO)"
+    },
+    {
+      "id": "680bc74618b1e36f2e000155",
+      "type": "list",
+      "exact_answer": [
+        [
+          "immune checkpoint inhibitors ICIs cancer vaccine adoptive cell transfer"
+        ],
+        [
+          "immune checkpoint inhibitors ICIs cancer vaccine adoptive cell transfer ACT"
+        ],
+        [
+          "immune checkpoint inhibitors ICIs cancer vaccine"
+        ],
+        [
+          "ICIs cancer vaccine adoptive cell transfer"
+        ],
+        [
+          "immune checkpoint inhibitors ICIs"
+        ],
+        [
+          "cancer vaccine adoptive cell transfer"
+        ],
+        [
+          "ICIs cancer vaccine adoptive cell transfer ACT"
+        ],
+        [
+          "cancer vaccine adoptive cell transfer ACT"
+        ],
+        [
+          "checkpoint inhibitors ICIs cancer vaccine adoptive cell transfer"
+        ],
+        [
+          "immune checkpoint inhibitors"
+        ],
+        [
+          "checkpoint inhibitors ICIs cancer vaccine adoptive cell transfer ACT"
+        ],
+        [
+          "include immune checkpoint inhibitors ICIs cancer vaccine adoptive cell transfer"
+        ]
+      ],
+      "ideal_answer": "The clinical goal of cancer immunotherapy is to prime host immune system to provide passive or active immunity against malignant tumors . Several cancer immunotherapies, include immune checkpoint inhibitors (ICIs), cancer vaccine, adoptive cell transfer (ACT) have shown great efficacy and promise ."
+    },
+    {
+      "id": "67f857eb18b1e36f2e000105",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "ostoperative delirium (POD) after transcatheter aortic valve implantation (TAVI) is frequent in older adults and associated with multiple negative outcomes including a higher mortality . Delirium is a common disorder for patients after cardiac surgery"
+    },
+    {
+      "id": "67e291a718b1e36f2e000081",
+      "type": "list",
+      "exact_answer": [
+        [
+          "acrophobia"
+        ],
+        [
+          "acrophobia Dental phobia"
+        ],
+        [
+          "acrophobia Dental phobia DP and injection phobia"
+        ],
+        [
+          "acrophobia Dental"
+        ],
+        [
+          "acrophobia Dental phobia DP"
+        ],
+        [
+          "Dental phobia"
+        ],
+        [
+          "Dental phobia DP and injection phobia trypophobia"
+        ],
+        [
+          "neophobia spider phobia snake phobia"
+        ],
+        [
+          "Dental phobia DP and injection phobia"
+        ],
+        [
+          "spider phobia snake phobia"
+        ],
+        [
+          "trypophobia Food neophobia spider phobia snake phobia"
+        ],
+        [
+          "snake phobia"
+        ],
+        [
+          "DP and injection phobia trypophobia"
+        ],
+        [
+          "Dental"
+        ]
+      ],
+      "ideal_answer": "acrophobia is a phobia of injection phobia (DP) and injection ph"
+    },
+    {
+      "id": "680b7f4818b1e36f2e000154",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Radiomics and deep learning have emerged as two distinct approaches to medical image analysis . Theoretically, hand-crafted radiomic features represent a mere subset of features that neural networks can approximate, thus making deep learning a more powerful approach . We speculate that to improve the CNN performance, shape and texture features can be computed explicitly and added as auxiliary variables to the networks . To use convolutional neural network for fully automated segmentation and radiomics features extraction of hypopharyngeal cancer (HPC) tumor in MRI, we used DeepLab V3\u2009+"
+    },
+    {
+      "id": "67cde43c81b102733300001e",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Graves' disease (GD) is an autoimmune condition of the thyroid . The hyperthyroidism manifested by patients affected by this disease is caused by the production of autoantibodies against the thyroid-stimulating hormone (TSH, or thyrotropin) receptor . Genetic factors account for 60-80% of risk of developing GD ."
+    },
+    {
+      "id": "67e2958018b1e36f2e000084",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Blood transcriptional mechanisms of suicidal ideation (SI) remain unknown . Gene expression regulation, immune response, and inflammation may be linked to SI in patients with MDD suicide attempts . Suicide attempts had significant positive genetic correlations with risks of attention-deficit/hyperactivity disorder ."
+    },
+    {
+      "id": "680c174d353a4a2e6b000001",
+      "type": "list",
+      "exact_answer": [
+        [
+          "phosphorylation ubiquitination glycosylation"
+        ],
+        [
+          "phosphorylation ubiquitination"
+        ],
+        [
+          "short-chain and long-chain acylation modifications"
+        ],
+        [
+          "redox modifications and irreversible modifications"
+        ],
+        [
+          "phosphorylation"
+        ],
+        [
+          "phosphorylation ubiquitination glycosylation methylation"
+        ],
+        [
+          "short-chain and long-chain acylation modifications redox modifications"
+        ],
+        [
+          "irreversible modifications"
+        ],
+        [
+          "glycosylation methylation SUMOylation"
+        ],
+        [
+          "modifications"
+        ],
+        [
+          "long-chain acylation modifications redox modifications and irreversible modifications"
+        ]
+      ],
+      "ideal_answer": "Protein posttranslational modifications (PTMs) refer to the breaking or generation of covalent bonds on the backbones or amino acid side chains of proteins . To date, more than 650 types of protein modifications have been described . PTMs ultimately alter the phenotypes and biological processes of cells ."
+    },
+    {
+      "id": "67e0053118b1e36f2e000067",
+      "type": "yesno",
+      "exact_answer": "no",
+      "ideal_answer": "The evaluation of ROS in semen seems promising as a potential diagnostic tool for male infertility and male preconception care . MiOXSYS and OxiSperm\u00ae II assays appear to provide no clinical utility for determining oxidative stress in human sperm- results from repeated semen collections ."
+    },
+    {
+      "id": "67e2a8d618b1e36f2e000088",
+      "type": "list",
+      "exact_answer": [
+        [
+          "schistosomiasis"
+        ],
+        [
+          "Hookworm"
+        ],
+        [
+          "G duodenalis"
+        ],
+        [
+          "G duodenalis infections"
+        ],
+        [
+          "Trichuris trichiura Patients infected with schistosomiasis"
+        ],
+        [
+          "infected with schistosomiasis"
+        ],
+        [
+          "Hookworm a parasitic infection"
+        ],
+        [
+          "Patients infected with schistosomiasis"
+        ],
+        [
+          "duodenalis"
+        ],
+        [
+          "duodenalis infections"
+        ],
+        [
+          "hookworm"
+        ],
+        [
+          "Trichuris trichiura"
+        ]
+      ],
+      "ideal_answer": "Hookworm, a parasitic infection, retains a considerable burden of disease, affecting the most underprivileged segments of the general population in endemic countries . Patients infected with schistosomiasis often exhibit a distinct hematological profile, including anemia apart from iron deficiency anemia and vascular dysfunction contributed in part by adhesion of infected RBC to endothelium . PZQ found to be safe, effective, and reducing maternal anemia hookworm (16%; 52/325)"
+    },
+    {
+      "id": "680a07ed18b1e36f2e000149",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "Nicotinic acetylcholine"
+        ],
+        [
+          "Nicotinic acetylcholine receptors"
+        ],
+        [
+          "Nicotinic acetylcholine receptors nAChRs"
+        ],
+        [
+          "acetylcholine"
+        ],
+        [
+          "Nicotinic"
+        ]
+      ],
+      "ideal_answer": "Nicotinic acetylcholine receptors (nAChRs) are homo- or heteropentameric ligand-gated ion"
+    },
+    {
+      "id": "67e93f2d18b1e36f2e0000db",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "GBCA use in patients with severe chronic kidney disease"
+        ],
+        [
+          "severe chronic kidney disease"
+        ],
+        [
+          "chronic kidney disease"
+        ],
+        [
+          "GBCA use in patients with severe chronic kidney disease CKD"
+        ],
+        [
+          "severe chronic kidney disease CKD"
+        ]
+      ],
+      "ideal_answer": "Gadolinium-based contrast agents (GBCAs) improve the diagnostic capabilities of magnetic resonance imaging . GBCA use in patients with severe chronic kidney disease (CKD) was demonstrated to cause nephrogenic systemic fibrosis (NSF) Intravenous and intraarterial contrast media are invaluable tools in the diagnosis of anatomic lesions ."
+    },
+    {
+      "id": "67e2bde318b1e36f2e000093",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Prevalence of sleep apnea is significantly increasing due to the epidemic of obesity, physical inactivity, and diabetes"
+    },
+    {
+      "id": "680c137818b1e36f2e000158",
+      "type": "list",
+      "exact_answer": [
+        [
+          "tumor angiogenesis growth metastasis and evasion of immune destruction"
+        ],
+        [
+          "growth metastasis and evasion of immune destruction"
+        ],
+        [
+          "angiogenesis growth metastasis and evasion of immune destruction"
+        ],
+        [
+          "tumor angiogenesis"
+        ],
+        [
+          "tumor angiogenesis growth metastasis"
+        ],
+        [
+          "tumor angiogenesis growth"
+        ],
+        [
+          "metastasis and evasion of immune destruction"
+        ],
+        [
+          "evasion of immune destruction"
+        ],
+        [
+          "tumor"
+        ],
+        [
+          "destruction"
+        ],
+        [
+          "growth metastasis"
+        ],
+        [
+          "tumor angiogenesis growth metastasis and evasion of immune"
+        ],
+        [
+          "immune destruction"
+        ]
+      ],
+      "ideal_answer": "The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors . They include sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, inducing angiogenesis, and activating invasion and metastasis . Pericytes are multipotent perivascular cells whose involvement in vasculature development is well established . They are also capable of tumor homing and are important cellular components of the tumor microenvironment (TME)"
+    },
+    {
+      "id": "67ca061181b102733300000a",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "transcriptional silence"
+        ],
+        [
+          "transcriptional silence of that chromosome"
+        ],
+        [
+          "the transcriptional silence"
+        ],
+        [
+          "the transcriptional silence of that chromosome"
+        ],
+        [
+          "X chromosome inactivation"
+        ]
+      ],
+      "ideal_answer": "Long noncoding RNAs (lncRNAs) such as Xist, Air, and Kcnq1ot1 are required for epigenetic silencing of multiple genes in cis within large chromosomal domains . The similar map positions and expression patterns for Xist in mouse and man suggest that this gene may have a role in X inactivation ."
+    },
+    {
+      "id": "67e26d6218b1e36f2e000074",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "423151 years old"
+        ],
+        [
+          "423"
+        ],
+        [
+          "423151 years"
+        ],
+        [
+          "423151"
+        ]
+      ],
+      "ideal_answer": "The mean age at the disease onset was 37\u00b114.7 years old . At disease onset females tended to be younger (46.51\u2009\u00b1\u200913.52) than males ."
+    },
+    {
+      "id": "680a21eb18b1e36f2e000150",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "microglia and astrocytes"
+        ],
+        [
+          "microglia"
+        ],
+        [
+          "astrocytes"
+        ],
+        [
+          "oligodendrocytes"
+        ]
+      ],
+      "ideal_answer": "In vertebrate central nervous system, oligodendrocytes myelinate neuronal axons to increase conduction velocity and provide trophic support . Myelination can be modified by local signaling at the axon-myelin interface, potentially adapting sheaths to support the metabolic needs and physiology of individual neurons ."
+    },
+    {
+      "id": "67fa3c5818b1e36f2e000109",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "a free database for a fast information on published biomarkers"
+        ],
+        [
+          "a free text mining-based online database"
+        ],
+        [
+          "a free text mining-based online database for molecular biomarkers"
+        ],
+        [
+          "free text mining-based online database"
+        ],
+        [
+          "free database for a fast information on published biomarkers"
+        ]
+      ],
+      "ideal_answer": "BIONDA was implemented as a free text mining-based online database for molecular biomarkers including genes, proteins and miRNAs . The database is a free database for fast information"
+    },
+    {
+      "id": "6810c54b353a4a2e6b000011",
+      "type": "list",
+      "exact_answer": [
+        [
+          "neuroleptic malignant syndrome"
+        ],
+        [
+          "unipolar depression"
+        ],
+        [
+          "unipolar depression 577"
+        ],
+        [
+          "other conditions"
+        ],
+        [
+          "conditions"
+        ],
+        [
+          "other conditions including neuroleptic malignant syndrome"
+        ],
+        [
+          "unipolar"
+        ],
+        [
+          "conditions including neuroleptic malignant syndrome"
+        ],
+        [
+          "effectively used for other conditions"
+        ],
+        [
+          "malignant syndrome"
+        ],
+        [
+          "effectively used for other conditions including neuroleptic malignant syndrome"
+        ],
+        [
+          "catatonia although it has been effectively used for other conditions"
+        ],
+        [
+          "neuroleptic"
+        ],
+        [
+          "treatment-resistant schizophrenia"
+        ],
+        [
+          "neuroleptic malignant syndrome refractory self-injurious"
+        ]
+      ],
+      "ideal_answer": "unipolar depression (57.7%) is the most common form of depression, followed by schizophrenia spectrum (41%), psychotic disorder (23%) and bipolar disorder depression . Treatment-resistant major depression, bipolar disorders, and treatment-resistant schizophrenia are also effective treatments for other conditions ."
+    },
+    {
+      "id": "67fd5d6518b1e36f2e000138",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "7"
+        ],
+        [
+          "chr 7"
+        ],
+        [
+          "7 gain"
+        ],
+        [
+          "chr 7 gain"
+        ],
+        [
+          "chromosome chr 7"
+        ]
+      ],
+      "ideal_answer": "Glioblastoma (GBM) is the most common and aggressive form of glioma . GBM frequently displays chromosome (chr) 7 gain, chr 10 loss and/or EGFR amplification . It is characterized by its high intra- and intertumoral heterogeneity, in terms of the level of single-nucleotide variants, copy number alterations, and aneuploidy ."
+    },
+    {
+      "id": "67fb046e18b1e36f2e00010c",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "epidermal growth factor receptor 2"
+        ],
+        [
+          "growth factor receptor 2"
+        ],
+        [
+          "HER2"
+        ],
+        [
+          "epidermal growth factor receptor 2 HER2"
+        ],
+        [
+          "growth factor receptor 2 HER2"
+        ]
+      ],
+      "ideal_answer": "Zanidatamab is a bispecific human epidermal growth factor receptor 2 (HER2)-targeted antibody . It has demonstrated antitumor activity in a broad range of HER2-amplified/expressing solid tumors . The anti-tumour activity was shown in a phase 1, dose-escalation and expansion study of HERIZON-BTC-01 . The drug is a humanised, bispecial monoclonal antibody directed against two non-overlapping domains of Her2 ."
+    },
+    {
+      "id": "67d6bbfa18b1e36f2e000020",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Maxim HIV-1 Limiting Antigen Avidity EIA multiplexed PCR device developed for simple and efficient quantification . Device is comprised of a previously developed RNA extraction module combined with an optimized real-time PCR amplification system ."
+    },
+    {
+      "id": "680fe1e3353a4a2e6b00000f",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "DNA variants are called as differences in comparison to a reference . In a sequencing project, SNPs and DNA mutations are defined as DNA variants detectable in >1% or <1% of the population . The alternative use of the two terms mutation or polymorphism for the same event (a difference as compared with a reference) can lead to problems of classification ."
+    },
+    {
+      "id": "680d5dd8353a4a2e6b000004",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Melatonin is vital in human circadian rhythm and infant development . This scoping review summarized the current knowledge about melatonin's presence and effects in human milk . Melatonin in breast milk exhibits a 24-hour circadian rhythm, present in nighttime breast milk but nearly undetectable in daytime breast milk . Breastfeeding is the most appropriate source of a newborn's nutrition ."
+    },
+    {
+      "id": "67d7208218b1e36f2e00002e",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Hormones, genetics, micronutrient deficiency, microinflammation and stress hair breakage are genetic factors for male hair loss . There is evidence that scalp, hair follicle, and gut microbiome alterations are associated with various types of alopecia ."
+    },
+    {
+      "id": "67fc381f18b1e36f2e00012f",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Melanoma has been shown to dynamically shift between different transcriptional states or phenotypes . This is referred to as phenotype switching in melanoma . It involves switching between quiescent and proliferative cell cycle states, and dramatic shifts in invasiveness ."
+    },
+    {
+      "id": "67c9e46881b1027333000004",
+      "type": "summary",
+      "exact_answer": [],
+      "ideal_answer": "Neoantigens are mutated antigens specifically generated by cancer cells but absent in normal cells . The term \"neoantigen,\" as applied to molecules newly expressed on tumor cells, has a long history ."
+    },
+    {
+      "id": "67fbe2ab18b1e36f2e000116",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Intra-articular injections of different doses of linear HMW HA can improve pain, stiffness, function, function and quality of life in patients suffering from knee OA over a six-month period . Treatment with viscosupplementation increased the time until surgery in all patients ."
+    },
+    {
+      "id": "67eaf14c18b1e36f2e0000de",
+      "type": "list",
+      "exact_answer": [
+        [
+          "NFIA and ATF3"
+        ],
+        [
+          "NFIA and ATF"
+        ],
+        [
+          "NFIA"
+        ],
+        [
+          "SOX"
+        ],
+        [
+          "ATF3"
+        ],
+        [
+          "SOX transcription factors"
+        ],
+        [
+          "transcription factors that function at these elements we identified NFIA and ATF3"
+        ],
+        [
+          "NFIA and ATF3 as drivers of astrocyte differentiation"
+        ],
+        [
+          "we identified NFIA and ATF3"
+        ],
+        [
+          "NFIA and ATF3 as drivers of astrocyte"
+        ],
+        [
+          "identified NFIA and ATF3"
+        ],
+        [
+          "3"
+        ],
+        [
+          "elements we identified NFIA and ATF3"
+        ]
+      ],
+      "ideal_answer": "NFIA and ATF3 are drivers of astrocyte differentiation from neural precursor cells, while RUNX2 promotes astrocete maturation . NFIA, ATF3 and RUNx2 facilitate stage-specific gene expression programs by switching the chromatin state of their target regulatory elements from primed to active . Astrogliogenesis is more severely disrupted by a ZBTB20 protein containing dominant mutations linked to Primrose syndrome . The transcription factor zinc finger and BTB domain-containing protein 20 has been implicated in regulation of cell specification during neocortical development ."
+    },
+    {
+      "id": "67c9e7ee81b1027333000007",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Peto's paradox highlights the lower-than-expected cancer rates in larger and/or longer-lived species . Despite this assumption, the observed uniformity in cancer rates across species is studied and hypothetically solved . This study uncovered the sufficient conditions underlying the absence of correlation in Peto\u2019s paradox and provide insights into the reasons for the equitable distribution of cancer ."
+    },
+    {
+      "id": "67d71d8f18b1e36f2e00002b",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "anaerobic"
+        ],
+        [
+          "anaerobes strictly anaerobic"
+        ],
+        [
+          "anaerobic bacterium"
+        ],
+        [
+          "strictly anaerobic"
+        ],
+        [
+          "anaerobes strictly anaerobic bacterium"
+        ]
+      ],
+      "ideal_answer": "clinical anaerobes strictly anaerobic bacterium"
+    },
+    {
+      "id": "67cdb26a81b1027333000017",
+      "type": "list",
+      "exact_answer": [
+        [
+          "cardiovascular and kidney benefits"
+        ],
+        [
+          "cardiovascular and kidney"
+        ],
+        [
+          "provide cardiovascular and kidney benefits"
+        ],
+        [
+          "kidney benefits"
+        ],
+        [
+          "provide cardiovascular and kidney"
+        ],
+        [
+          "kidney"
+        ],
+        [
+          "cardiovascular and kidney benefits to patients with heart failure"
+        ],
+        [
+          "improve glycaemic control cardiovascular outcomes and promote weight loss"
+        ],
+        [
+          "patients with heart failure HF andor chronic kidney disease"
+        ],
+        [
+          "cardiovascular outcomes and promote weight loss"
+        ],
+        [
+          "provide cardiovascular and kidney benefits to patients with heart failure"
+        ],
+        [
+          "kidney benefits to patients with heart failure"
+        ],
+        [
+          "cardiovascular"
+        ],
+        [
+          "cardiovascular and kidney benefits to patients with heart failure HF"
+        ],
+        [
+          "inhibitors provide cardiovascular and kidney benefits"
+        ]
+      ],
+      "ideal_answer": "Combination therapy improves glycemic control, reduces insulin dosing, and suggests a strategy to unlock the benefits of SGLT2 inhibitors while mitigating the risk of diabetic ketoacidosis . Sodium-glucose co-transporter-2 inhibitors provide cardiovascular and kidney benefits to patients with heart failure (HF) and/or chronic kidney disease (CKD) Treatment is safe and significantly reduces risk of hospitalization for HF, but it has no impact on all-cause death and cardiovascular death compared to placebo ."
+    },
+    {
+      "id": "67e2b0a018b1e36f2e00008b",
+      "type": "factoid",
+      "exact_answer": [
+        [
+          "Escherichia coli"
+        ],
+        [
+          "Uropathogenic Escherichia coli"
+        ],
+        [
+          "Escherichia coli UPEC"
+        ],
+        [
+          "Uropathogenic Escherichia coli UPEC"
+        ],
+        [
+          "Escherichia"
+        ]
+      ],
+      "ideal_answer": "Escherichia coli was the most identified uropathogen (60.4%) followed by Klebsiella spp. (8.7%) and Enterococcus spp., (7.7%), Uropathogenic Esc"
+    },
+    {
+      "id": "67e090be18b1e36f2e00006c",
+      "type": "yesno",
+      "exact_answer": "yes",
+      "ideal_answer": "Spore-forming bacteria of the Bacillus genus have demonstrated potential as probiotics for human use . Bacillus clausii has been recognized as efficacious and safe agents for preventing and treating diarrhea in children and adults . This 12-week open-label, single-center clinical trial evaluated the efficacy of probiotics (Bacillus indicus (HU36), Bacillus subtilis, Bacillus coagulans (SC208) and Bacillus licheniformis (SL307)"
+    },
+    {
+      "id": "67d7fded18b1e36f2e000042",
+      "type": "list",
+      "exact_answer": [
+        [
+          "asymptomatic"
+        ],
+        [
+          "asymptomatic while others experience lower abdominal discomfort"
+        ],
+        [
+          "lower abdominal discomfort"
+        ],
+        [
+          "are asymptomatic"
+        ],
+        [
+          "CT are asymptomatic"
+        ],
+        [
+          "Chlamydia trachomatis CT are asymptomatic"
+        ],
+        [
+          "lower abdominal discomfort when the inflammatory process extends to the fallopian tubes"
+        ],
+        [
+          "others experience lower abdominal discomfort"
+        ],
+        [
+          "experience lower abdominal discomfort"
+        ],
+        [
+          "Some women infected with Chlamydia trachomatis"
+        ],
+        [
+          "trachomatis CT are asymptomatic"
+        ]
+      ],
+      "ideal_answer": "Some women infected with Chlamydia trachomatis (CT) are asymptomatic, while others experience lower abdominal discomfort when the inflammatory process extends to the fallopian tubes . PID is infection of the female upper genital tract, involving the uterus, Fallopian tubes, ovaries, and/or pelvic peritoneum ."
+    }
+  ]
+}
