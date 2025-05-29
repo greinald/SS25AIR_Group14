@@ -1,7 +1,6 @@
 This repository was used to structure our **pipeline for the BioASQ competition**. Please note that some large files (e.g., models and large retrieval results) are not included here due to repository size limitations.
 **To ensure full reproducibility, we have provided these files on Google Drive:**
-👉 [Access all models and large retrieval files here.]([https://drive.google.com/drive/u/0/folders/1_BjWUujPHd3s0l7Y2eoCNc7QC5u4wipg](https://drive.google.com/drive/folders/1bpcglzHMz2QxpPcfCggmaSYjKPcw1xuA?usp=share_link)
-
+👉 [Access all models and large retrieval files here.](https://drive.google.com/drive/folders/1_BjWUujPHd3s0l7Y2eoCNc7QC5u4wipg?usp=share_link)
 
 
 ## Repository Structure & Project Organization
