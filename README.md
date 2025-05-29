@@ -9,44 +9,35 @@ This repository was used to structure our **pipeline for the BioASQ competition*
 ```
 SS25AI-Project/
 │
-├── api_retrieval/              # API retrieval with a pool of 1000 documents
+├── api_retrieval/                    # API retrieval with a pool of 1000 documents
 │
-├── bm_25/                      # BM25-based document ranking (filters from 1000 to 500)
+├── bm_25/                            # BM25-based document ranking (filters from 1000 to 500)
 │
-├── NLP/                        # NLP models and utilities
-│   ├── Model_In_Drive/         # Trained model storage (see Google Drive)
-│   └── finetune.ipynb          # Fine-tuning code for the NLP module
+├── NLP/                              # NLP models and utilities
+│   ├── Model_In_Drive/               # Trained model storage (see Google Drive)
+│   └── finetune.ipynb                # Fine-tuning code for the NLP module
 │
-├── Neural_Reranking/           # Neural network based reranking
-│   ├── Model_In_Drive/         # Trained model storage (see Google Drive)
-│   └── Test_Batches/           # Submission file for Phase A Test Batch 4
+├── Neural_Reranking/                 # Neural network based reranking
+│   ├── Model_In_Drive/               # Trained model storage (see Google Drive)
+│   └── Test_Batches/                 # Submission file for Phase A Test Batch 4
 │
-├── Phase_B/                    # Phase B: Question-specific agent modules & outputs
-│   └── answers_phase_b-...json # Example output for Phase B
+├── Phase_B/                          # Phase B: Question-specific agent modules & outputs
+│   └── answers_phase_b-...json       # Example output for Phase B
 │
-├── .gitignore                  # Git ignore file
-├── AIR_Code.ipynb              # Main notebook (orchestration)
-├── BioASQ-task13bPhase...json  # Test dataset for the 4th batch (BioASQ challenge)
-├── README.md                   # This file
-├── requirements.txt            # Python dependencies
-└── training13b.json            # Training data for model fine-tuning
+├── .gitignore                        # Git ignore file
+├── AIR_Code.ipynb                    # Main notebook. Fully developed Pipeline. 
+├── SS25__BIOASQ_Phase_A_Protocol.pdf # A protocol for Phase A containing a description of the evaluation metrics as well as tutorial for official testing
+├── BioASQ-task13bPhase...json        # Test dataset for the 4th batch (BioASQ challenge)
+├── README.md                         # The file you are reading
+├── requirements.txt                  # Python dependencies
+└── training13b.json                  # Training data for model fine-tuning
 ```
 
 ### Architectural Overview
 
 This repository is organized following a two-phase pipeline:
 
-<div align="center">
-  <img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" />
-  
-  <br>
-  
-  <i>
-    Figure: High-level architecture of the BioASQ pipeline implemented in this repository.<br>
-    Phase A handles document retrieval and ranking. Phase B processes the ranked results through question-specific agents to generate answers.
-  </i>
-</div>
-
+<img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" /> <p align="center" style="color:gray"> <i>Figure: High-level architecture of the BioASQ pipeline implemented in this repository.<br> Phase A handles document retrieval and ranking. Phase B processes the ranked results through question-specific agents to generate answers.</i> </p>
 
 
 Please see the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usage instructions.
