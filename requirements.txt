@@ -1,12 +1,11 @@
-# Core libraries
+requests
+pandas
+faiss-cpu
 numpy
 torch
-nltk
-tqdm
-
-# Bioinformatics
-biopython
-
-# NLP and retrieval
-rank_bm25
+transformers
 sentence-transformers
+biopython
+nltk
+rank-bm25
+tqdm
