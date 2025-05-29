@@ -1,5 +1,3 @@
-# SS25AIR\_Group14 (Machinen Results in the Test Batch 4)
-
 This repository was used to structure our **pipeline for the BioASQ competition**. Please note that some large files (e.g., models and large retrieval results) are not included here due to repository size limitations.
 **To ensure full reproducibility, we have provided these files on Google Drive:**
 👉 [Access all models and large retrieval files here.](https://drive.google.com/drive/u/0/folders/1_BjWUujPHd3s0l7Y2eoCNc7QC5u4wipg)
@@ -38,7 +36,26 @@ SS25AI-Project/
 
 This repository is organized following a two-phase pipeline:
 
-* **Phase A:** Retrieval and ranking (BM25, NLP representations, neural reranking)
-* **Phase B:** Question-specific agents for answer generation (Yes/No, Factoid/List, Summary)
+<div align="center">
+  <img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" />
+  
+  <br>
+  
+  <i>
+    Figure: High-level architecture of the BioASQ pipeline implemented in this repository.<br>
+    Phase A handles document retrieval and ranking. Phase B processes the ranked results through question-specific agents to generate answers.
+  </i>
+</div>
 
-See the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usage instructions.
+
+
+Please see the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usage instructions.
+
+
+
+
+## Final Remarks
+
+With this project our main goal was not only pure performance but rather create a pipeline which is easly replicatable and workable from others in future work. We tried to create a system which is easly understandable and tried to visualize that with the diagram above. This should make it easy for anyone to follow our work or even make it better.
+
+**Note:** The API was non functional on the day of subbmition(29.05.2025) but we hope that it will work when you try to run it. 
