@@ -36,7 +36,17 @@ SS25AI-Project/
 
 This repository is organized following a two-phase pipeline:
 
-<img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" /> <p align="center" style="color:gray"> <i>Figure: High-level architecture of the BioASQ pipeline implemented in this repository.<br> Phase A handles document retrieval and ranking. Phase B processes the ranked results through question-specific agents to generate answers.</i> </p>
+<div align="center">
+  <img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" />
+  
+  <br>
+  
+  <i>
+    Figure: High-level architecture of the BioASQ pipeline implemented in this repository.<br>
+    Phase A handles document retrieval and ranking. Phase B processes the ranked results through question-specific agents to generate answers.
+  </i>
+</div>
+
 
 
 Please see the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usage instructions.
