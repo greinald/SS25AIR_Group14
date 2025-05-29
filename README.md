@@ -1,4 +1,4 @@
-# SS25AIR\_Group14 (Machinen Results in the Test Batch 4)
+<img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/bf4d60d3-f1bc-4b7c-b5f5-e07addcdefb2" /># SS25AIR\_Group14 (Machinen Results in the Test Batch 4)
 
 This repository was used to structure our **pipeline for the BioASQ competition**. Please note that some large files (e.g., models and large retrieval results) are not included here due to repository size limitations.
 **To ensure full reproducibility, we have provided these files on Google Drive:**
@@ -42,3 +42,14 @@ This repository is organized following a two-phase pipeline:
 * **Phase B:** Question-specific agents for answer generation (Yes/No, Factoid/List, Summary)
 
 See the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usage instructions.
+
+<img width="691" alt="System_Architecture" src="https://github.com/user-attachments/assets/4e28d00f-fc60-4150-93e4-342986dd9975" />
+
+
+
+
+## Final Remarks
+
+With this project our main goal was not only pure performance but rather create a pipeline which is easly replicatable and workable from others in future work. We tried to create a system which is easly understandable and tried to visualize that with the diagram above. This should make it easy for anyone to follow our work or even make it better.
+
+**Note:** The API was non functional on the day of subbmition(29.05.2025) but we hope that it will work when you try to run it. 
