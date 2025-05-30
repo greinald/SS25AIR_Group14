@@ -48,4 +48,4 @@ Please see the main notebook (`AIR_Code.ipynb`) for a pipeline overview and usag
 
 With this project our main goal was not only pure performance but rather create a pipeline which is easly replicatable and workable from others in future work. We tried to create a system which is easly understandable and tried to visualize that with the diagram above. This should make it easy for anyone to follow our work or even make it better.
 
-**Note:** The API was non functional on the day of subbmition(29.05.2025) but we hope that it will work when you try to run it. 
+**Note:** The API was non functional on the day of the subbmition(29.05.2025) but we hope that it will work when you try to run it. Thank you.
